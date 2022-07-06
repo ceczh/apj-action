@@ -1,3 +1,4 @@
+name: Private Test
 on: [push]
 
 jobs:
